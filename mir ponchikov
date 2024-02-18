@@ -17,9 +17,38 @@ img {
     margin: auto;
 }
 
+p1{
+    font-size: 17px;
+    color: red;
+    text-align: center;
+    font-family: 'SEGOE PRINT';
+}
+
+p2{
+    font-size: 18px;
+    color: red;
+    text-align: center;
+    font-family: 'SEGOE PRINT';
+}
+
+ul{
+    font-size: 18px;
+    color: red;
+    font-family: 'SEGOE PRINT';
+    background-color: pink;
+}
+
 </style>
 <body>
     <h1>Мир пончиков</h1>
     <img src="/uploads/2023/02/donut.png">
+    <p1><b>Пончик или пы́шка — круглое или кольцеобразное, жаренное во фритюре хлебобулочное изделие, с начинкой или без неё. Пончики с начинкой, преимущественно из овощей или фруктов, называются «бенье».</br></b></p1>
+    <p2><i>Виды пончиков:</i></p2>
+    <ul>
+        <li>жареная пампушка</li>
+        <li>баурсак</li>
+        <li>кабартма</li>
+        <li>лукумадес</li>
+        <li>берлинер</li>
 </body>
 </html>
